@@ -33,8 +33,8 @@ const data = [
     id: 4,
     image: IMG4,
     title: "Front End Portfolio",
-    github: "https://github.com",
-    demo: "https:google.com",
+    github: "https://github.com/Juil53/myPortfolio",
+    demo: "https://portfolio-delta-dusky.vercel.app/#",
   },
   {
     id: 5,
