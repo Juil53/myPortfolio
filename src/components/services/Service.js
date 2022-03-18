@@ -55,7 +55,7 @@ export default function Service() {
             </li>
           </ul>
         </article>
-        {/* END OF CONTENT */}
+        {/* END OF BACKEND DEV */}
       </div>
     </section>
   );

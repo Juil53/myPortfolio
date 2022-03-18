@@ -18,14 +18,14 @@ function App() {
   }, []);
   return (
     <>
-      <div data-aos="fade-left">
+      <div data-aos="fade-up">
         <Header />
       </div>
       <Navbar />
       <div data-aos="fade-up">
         <About />
       </div>
-      <div data-aos="fade-left">
+      <div data-aos="fade-up">
         <Experience />
       </div>
       <div data-aos="slide-up">
@@ -35,7 +35,7 @@ function App() {
         <Portfolio />
       </div>
       <Testimonial />
-      <div data-aos="fade-right">
+      <div data-aos="fade-up">
         <Contact />
       </div>
       <div data-aos="fade-up">
