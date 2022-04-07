@@ -4,7 +4,7 @@ import IMG1 from "../../assets/samar.jpg";
 import IMG2 from "../../assets/diner.jpg";
 import IMG3 from "../../assets/movie.jpg";
 import IMG4 from "../../assets/portfoliocode.jpg";
-import IMG5 from "../../assets/portfolio5.png";
+import IMG5 from "../../assets/elearning.jpg";
 import IMG6 from "../../assets/portfolio6.jpg";
 
 const data = [
@@ -39,9 +39,9 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: "Coming Soon",
-    github: "https://github.com",
-    demo: "https:google.com",
+    title: "Elearning",
+    github: "https://github.com/Juil53/Elearning-ReactJs",
+    demo: "https://elearning-juil53.vercel.app/",
   },
   {
     id: 6,
