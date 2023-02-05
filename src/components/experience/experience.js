@@ -11,75 +11,78 @@ export default function Experience() {
       <div className="container experience__container">
         <div className="experience__frontend">
           {/* FRONTEND */}
-          <h3>Front End Development</h3>
+          <h3>Front End</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Pre-intermediate</small>
+                <h4>HTML/CSS</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>CSS</h4>
-                <small className="text-light">Pre-intermediate</small>
+                <h4>Next-Auth</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>JavaScript</h4>
-                <small className="text-light">Basic</small>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Bootstrap/Material UI</h4>
-                <small className="text-light">Basic</small>
+                <h4>MUI/Tailwindcss</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>ReactJS</h4>
-                <small className="text-light">Basic</small>
+                <h4>ReactJS/NextJs</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Github</h4>
-                <small className="text-light">Basic</small>
+                <h4>Github/Bitbucket</h4>
               </div>
             </article>
           </div>
         </div>
         {/* BACKEND */}
         <div className="experience__backend">
-          <h3>Back End Development</h3>
+          <h3>Back End</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>NodeJS</h4>
-                <small className="text-light">Learning</small>
+                <h4>MVC</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>MongoDB</h4>
-                <small className="text-light">Learning</small>
+                <h4>NodeJS/ExpressJS</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>MySQL</h4>
-                <small className="text-light">Learning</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Firebase</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Sanity CMS</h4>
               </div>
             </article>
           </div>

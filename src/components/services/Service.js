@@ -17,24 +17,20 @@ export default function Service() {
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Working with Graphic, User Experience, or Web Designers to help
-                ensure design ideas can be made into a website that is easy to
-                use
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Transforming design into code that a web browser can read and
+                Working with Designers, transforming design into code that a web browser can read and
                 display on your screen
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Developing websites that work and look good on any screen, from
-                24-inch computer monitors to five-inch smartphone screens (this
-                is called responsive design)
+                Building Admin dashboard, CRUD content through API
+              </p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>
+                Building reusable component.
               </p>
             </li>
             <li>
@@ -51,7 +47,19 @@ export default function Service() {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Coming Soon!</p>
+              <p>Build backend server with nodejs,expressJs</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Build project structure follow MVC format</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Connect to Database mySql by using Sequelize</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Using firebase/mockapi/jsonserver for testing Api</p>
             </li>
           </ul>
         </article>
