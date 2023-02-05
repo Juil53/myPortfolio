@@ -1,5 +1,5 @@
 import React from "react";
-import CV from "../../assets/DinhVanHuuNghia-FrontEndDev.pdf";
+import CV from "../../assets/DinhVanHuuNghia-WebDeveloper.pdf";
 
 export default function CTA() {
   return (
