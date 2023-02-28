@@ -2,9 +2,8 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/samar.jpg";
 import IMG2 from "../../assets/diner.jpg";
-import IMG4 from "../../assets/portfoliocode.jpg";
 import IMG5 from "../../assets/elearning.jpg";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG6 from "../../assets/calamari.jpg";
 
 const data = [
   {
@@ -34,8 +33,8 @@ const data = [
   {
     id: 5,
     image: IMG6,
-    title: "Calamari Clone (On- going)",
-    demo: "https:google.com",
+    title: "Leave management",
+    demo: "https://calamari-fe.vercel.app/",
   },
 ];
 
