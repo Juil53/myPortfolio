@@ -28,7 +28,7 @@ export default function Experience() {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>JavaScript</h4>
+                <h4>JavaScript/ Typescript</h4>
               </div>
             </article>
             <article className="experience__details">
@@ -40,7 +40,19 @@ export default function Experience() {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>ReactJS/NextJs</h4>
+                <h4>ReactJs/NextJs</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Redux Toolkit</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Angular/NgRx</h4>
               </div>
             </article>
             <article className="experience__details">
@@ -71,6 +83,12 @@ export default function Experience() {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>MySQL</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>MongoDb</h4>
               </div>
             </article>
             <article className="experience__details">

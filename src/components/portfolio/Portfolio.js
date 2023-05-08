@@ -2,6 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/samar.jpg";
 import IMG2 from "../../assets/diner.jpg";
+import IMG4 from "../../assets/todo.jpg";
 import IMG5 from "../../assets/elearning.jpg";
 import IMG6 from "../../assets/calamari.jpg";
 
@@ -18,12 +19,12 @@ const data = [
     title: "Diner Landing Page",
     demo: "https://diner-bc-20.vercel.app/",
   },
-  // {
-  //   id: 3,
-  //   image: IMG4,
-  //   title: "My Portfolio",
-  //   demo: "https://portfolio-delta-dusky.vercel.app/#",
-  // },
+  {
+    id: 3,
+    image: IMG4,
+    title: "To Do List",
+    demo: "https://angular-todos-pearl.vercel.app",
+  },
   {
     id: 4,
     image: IMG5,
